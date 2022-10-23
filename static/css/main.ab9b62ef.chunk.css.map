@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,SAGC,YAAa,CACb,kBAAmB,CACpB,OAGC,gBAAiB","file":"main.ab9b62ef.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\n.wrapper {\n  display: flex;\n  align-items: center;\n}\n\n.title {\n  margin-left: 20px;\n}\n"]}
